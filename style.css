@@ -131,3 +131,25 @@ body{
 .social-followers h1, p{
     text-align: center;
 }
+
+footer{
+    background-color: #0B0D17;
+    height: 255px;
+    position: relative;
+}
+footer div{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50px;
+}
+footer h1, p{
+    text-align: center;
+}
+footer h1{
+    margin-bottom: 37px;
+    color: #5B5B5B;
+}
+footer p{
+    color: #5B5B5B;
+}
